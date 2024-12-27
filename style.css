@@ -1,0 +1,15 @@
+body{
+    background-color:rgb(252, 203, 69);
+}
+.flex-container {
+    display:flex;
+    flex-wrap: nowrap;
+    align-content: center;
+}
+
+.carousel-container{
+    width: 50%;
+    margin: 0 auto;
+  }
+
+
